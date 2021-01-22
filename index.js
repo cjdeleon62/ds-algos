@@ -1,4 +1,4 @@
-const ArrayStack = require('./data-structures/stack');
+const ArrayStack = require('./data-structures/stack').default;
 const runArrayStack = () => {
     console.log('running stack implemented with arrays example');
     const stack = new ArrayStack();
