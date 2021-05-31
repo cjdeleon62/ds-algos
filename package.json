@@ -1,0 +1,14 @@
+{
+  "name": "ds-algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frequencyCounters.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
