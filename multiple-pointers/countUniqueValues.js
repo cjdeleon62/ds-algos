@@ -1,3 +1,6 @@
+/**
+ * Some stuff here that will come later
+ */
 function countUniqueValues(values) {
     // check invalid inputs
     if (!values.length) return 0;

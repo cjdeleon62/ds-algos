@@ -4,7 +4,6 @@
  * This can often avoid the need for nested loops or O(N2) operations with strings/arrays
  * Example problem: Anagram
  */
-
  function validAnagram(firstWord, secondWord) {
     if (firstWord.length !== secondWord.length) {
         return false;
